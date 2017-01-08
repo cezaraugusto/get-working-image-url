@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports = (url, cb) => {
-  const img = new window.Image()
+  const img = new Image()
   img.onload = function () {
     cb(true)
   }
