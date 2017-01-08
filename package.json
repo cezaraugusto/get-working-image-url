@@ -1,0 +1,24 @@
+{
+  "name": "getworkingimageurl",
+  "version": "1.0.0",
+  "description": "Helper module to check for broken image Urls",
+  "license": "MIT",
+  "repository": "cezaraugusto/getworkingimageurl",
+  "author": {
+    "name": "“Cezar Augusto“",
+    "email": "cezaraugusto@outlook.it",
+    "url": "cezaraugusto.net"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {},
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "broken", "missing", "not found", "image", "url"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
