@@ -1,6 +1,6 @@
 {
   "name": "getworkingimageurl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper module to check for broken image Urls",
   "license": "MIT",
   "repository": "cezaraugusto/getworkingimageurl",
@@ -17,7 +17,11 @@
     "index.js"
   ],
   "keywords": [
-    "broken", "missing", "not found", "image", "url"
+    "broken",
+    "missing",
+    "not found",
+    "image",
+    "url"
   ],
   "dependencies": {},
   "devDependencies": {}
